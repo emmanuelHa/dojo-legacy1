@@ -22,6 +22,7 @@ Feel free to make any changes to the UpdateQuality method and add any new code a
 
 IF you don't have maven installed on your computer then you can use a maven wrapper which is available. 
 So no previous maven installation is required.
+Prerequisites : MAVEN_HOME variable set.
 We can run for the Unix system:
 	
 ./mvnw clean install
